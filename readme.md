@@ -1,5 +1,7 @@
 
 # Emoji Translation Dataset & Scripts
+#
+# **Note:** The input dataset file (English-Spanish sentence pairs) is obtained from [https://www.manythings.org/anki/spa-eng.zip](https://www.manythings.org/anki/spa-eng.zip)
 
 This project provides scripts and resources for translating English or Spanish sentences into emoji sequences using Google Gemini (Generative AI) models.
 
